@@ -5,6 +5,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // Base path for GitHub Pages (repository name). Adjust if deploying under a different path.
+    base: '/Global_connect_ai_studio/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
