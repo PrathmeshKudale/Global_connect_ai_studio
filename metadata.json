@@ -1,0 +1,6 @@
+{
+  "name": "Global Connect",
+  "description": "Educational platform connecting rural village classrooms with global knowledge, AI skills, simulations, coding, and expert mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
